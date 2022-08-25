@@ -3,6 +3,7 @@
   Exercicio1  - v0.1. - 21 / 08 / 2021
   Author: Lucas Morato de Oliveira Xavier
   Matricula : 541509
+  Auto-avaliacao: Não tive dificuldades em realizar o primeiro Ex.
  */
 
 import java.util.*;
