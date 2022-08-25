@@ -8,9 +8,11 @@ public static  Scanner sc = new Scanner(System.in);
 	    //Declaracao de variaveis
 		int num1, num2, soma;
 		
-		//leituras
+		//leitura do primeiro int
 		System.out.println("Digite um número");
 		num1 = sc.nextInt();
+	
+		//leitura do segundo int
 		System.out.println("Digite outro número");
 		num2 = sc.nextInt();
 		
